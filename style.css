@@ -76,6 +76,12 @@ body {
     color: #fff;
 }
 
+ul li a.link {
+    font-weight: 400;
+    color: #fff;
+    text-decoration: none;
+  }
+
 
 .contact {
     padding-top: 40px;
